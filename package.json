@@ -1,0 +1,21 @@
+{
+  "name": "gruvbox-x",
+  "displayName": "Gruvbox X",
+  "description": "A collection of gruvbox themes and other themes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "UesugiErii Theme",
+        "uiTheme": "vs",
+        "path": "./themes/UesugiErii Theme-color-theme.json"
+      }
+    ]
+  }
+}
